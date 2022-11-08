@@ -1,0 +1,10 @@
+2022-11-06T03:13:34+00:00 CRITICAL Uncaught Error: Call to undefined function wc_empty_cart() in /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php:372
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php(363): WC_Session_Handler->forget_session()
+#1 /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php(99): WC_Session_Handler->destroy_session()
+#2 /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php(71): WC_Session_Handler->init_session_cookie()
+#3 /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-woocommerce.php(860): WC_Session_Handler->init()
+#4 /var/www/wordpress/wp-content/plugins/woocommerce-payments/includes/multi-currency/MultiCurrency.php(916): WooCommerce->initialize_session()
+#5 /var/www/wordpress/wp-content/plugins/woocommerce-payments/includes/multi-currency/MultiCurrency.php(616): WCPay\MultiCurrency\MultiCurrency->get_stored_currency_code()
+#6 /var/www/wordpr in /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php on line 372
+

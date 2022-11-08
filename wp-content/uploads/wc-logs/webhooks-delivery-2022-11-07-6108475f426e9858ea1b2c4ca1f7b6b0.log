@@ -1,0 +1,54 @@
+2022-11-07T10:57:28+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7c44531d17129a82141e41503276062a
+            [Date] => Nov 7, 2022 @ 10:57
+            [URL] => https://webhooks.automizely.com/aftership/woocommerce/product/v1
+            [Duration] => 0.51644
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.1 Hookshot (WordPress/6.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hooraki.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => tfkYpox38Jv4Tq6JQbzkbZvCMOUH6MMSiO/TeohBf4Q=
+                            [X-WC-Webhook-ID] => 8
+                            [X-WC-Webhook-Delivery-ID] => 7c44531d17129a82141e41503276062a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 07 Nov 2022 10:57:28 GMT
+                                    [content-length] => 0
+                                    [vary] => Origin
+                                    [via] => 1.1 google
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=15552000
+                                    [server] => cloudflare
+                                    [cf-ray] => 76658c54beba6ba4-SIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

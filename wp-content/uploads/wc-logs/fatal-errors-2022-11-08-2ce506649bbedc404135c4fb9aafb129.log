@@ -1,0 +1,36 @@
+2022-11-08T09:49:12+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php on line 378 and defined in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php:516
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies()
+#1 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation()
+#2 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(161): Automattic\WooComme in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php on line 516
+
+2022-11-08T09:49:20+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php on line 378 and defined in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php:516
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies()
+#1 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation()
+#2 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(161): Automattic\WooComme in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php on line 516
+
+2022-11-08T09:49:31+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php on line 378 and defined in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php:516
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies()
+#1 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation()
+#2 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(161): Automattic\WooComme in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php on line 516
+
+2022-11-08T09:49:36+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore::get_attribute_taxonomies() must be an instance of WC_Product, bool given, called in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php on line 378 and defined in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php:516
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(378): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->get_attribute_taxonomies()
+#1 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(283): Automattic\WooCommerce\Internal\ProductAttributesLookup\LookupDataStore->create_data_for_variation()
+#2 /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php(161): Automattic\WooComme in /var/www/wordpress/wp-content/plugins/woocommerce/src/Internal/ProductAttributesLookup/LookupDataStore.php on line 516
+
+2022-11-08T10:29:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 801
+
+2022-11-08T11:52:38+00:00 CRITICAL Uncaught Error: Call to undefined function wc_empty_cart() in /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php:372
+Stack trace:
+#0 /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php(363): WC_Session_Handler->forget_session()
+#1 /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php(99): WC_Session_Handler->destroy_session()
+#2 /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php(71): WC_Session_Handler->init_session_cookie()
+#3 /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-woocommerce.php(860): WC_Session_Handler->init()
+#4 /var/www/wordpress/wp-content/plugins/woocommerce-payments/includes/multi-currency/MultiCurrency.php(916): WooCommerce->initialize_session()
+#5 /var/www/wordpress/wp-content/plugins/woocommerce-payments/includes/multi-currency/MultiCurrency.php(616): WCPay\MultiCurrency\MultiCurrency->get_stored_currency_code()
+#6 /var/www/wordpr in /var/www/wordpress/wp-content/plugins/woocommerce/includes/class-wc-session-handler.php on line 372
+

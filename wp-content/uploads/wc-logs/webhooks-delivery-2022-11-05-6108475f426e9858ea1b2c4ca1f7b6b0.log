@@ -1,0 +1,270 @@
+2022-11-05T17:54:40+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ac5bbaa80ee6bdd4d004d7b6edbe5951
+            [Date] => Nov 5, 2022 @ 17:54
+            [URL] => https://webhooks.automizely.com/aftership/woocommerce/product/v1
+            [Duration] => 0.28864
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.1 Hookshot (WordPress/6.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hooraki.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 3059LyWlsjLIu9+LjiPlK33PRrje2ggQ98EN/cRPGJ0=
+                            [X-WC-Webhook-ID] => 9
+                            [X-WC-Webhook-Delivery-ID] => ac5bbaa80ee6bdd4d004d7b6edbe5951
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 05 Nov 2022 17:54:40 GMT
+                                    [content-length] => 0
+                                    [vary] => Origin
+                                    [via] => 1.1 google
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=15552000
+                                    [server] => cloudflare
+                                    [cf-ray] => 765774b928124ccb-SIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-11-05T18:02:11+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 5dc26a0771854bef75406042e7038de5
+            [Date] => Nov 5, 2022 @ 18:02
+            [URL] => https://webhooks.automizely.com/aftership/woocommerce/product/v1
+            [Duration] => 0.2848
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.1 Hookshot (WordPress/6.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hooraki.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => FD+N1++VXsvL9LbKE9AOqVfd2kvcU+vBclrHX/PLYTc=
+                            [X-WC-Webhook-ID] => 9
+                            [X-WC-Webhook-Delivery-ID] => 5dc26a0771854bef75406042e7038de5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 05 Nov 2022 18:02:11 GMT
+                                    [content-length] => 0
+                                    [vary] => Origin
+                                    [via] => 1.1 google
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=15552000
+                                    [server] => cloudflare
+                                    [cf-ray] => 76577fbe5da74816-SIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-11-05T18:04:43+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 13e4115bbfce0b8bf02e3c155555bde5
+            [Date] => Nov 5, 2022 @ 18:04
+            [URL] => https://webhooks.automizely.com/aftership/woocommerce/product/v1
+            [Duration] => 0.25533
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.1 Hookshot (WordPress/6.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hooraki.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => rKbfg8JaKCwRweSSKGH8JRmOYLnBfaeQdLWurghEiqo=
+                            [X-WC-Webhook-ID] => 9
+                            [X-WC-Webhook-Delivery-ID] => 13e4115bbfce0b8bf02e3c155555bde5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 05 Nov 2022 18:04:43 GMT
+                                    [content-length] => 0
+                                    [vary] => Origin
+                                    [via] => 1.1 google
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=15552000
+                                    [server] => cloudflare
+                                    [cf-ray] => 76578373cf75494f-SIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-11-05T18:12:48+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => af88f08d542e524e41f99438cf47986e
+            [Date] => Nov 5, 2022 @ 18:12
+            [URL] => https://webhooks.automizely.com/aftership/woocommerce/product/v1
+            [Duration] => 0.30045
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.1 Hookshot (WordPress/6.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hooraki.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => YOvos1NFmNZOLNlkcvmwE9SYL1+nEwuzwEuUFAb27zw=
+                            [X-WC-Webhook-ID] => 9
+                            [X-WC-Webhook-Delivery-ID] => af88f08d542e524e41f99438cf47986e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 05 Nov 2022 18:12:48 GMT
+                                    [content-length] => 0
+                                    [vary] => Origin
+                                    [via] => 1.1 google
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=15552000
+                                    [server] => cloudflare
+                                    [cf-ray] => 76578f469bbe894a-SIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2022-11-05T18:14:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c0e79f63d77dfbf7f292874a0599b2e5
+            [Date] => Nov 5, 2022 @ 18:14
+            [URL] => https://webhooks.automizely.com/aftership/woocommerce/product/v1
+            [Duration] => 0.28072
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/7.0.1 Hookshot (WordPress/6.1)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://hooraki.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 6aO2px4vx1PDpdoZhvJyg2Ea1oTKd91ha9/nlr45tB8=
+                            [X-WC-Webhook-ID] => 9
+                            [X-WC-Webhook-Delivery-ID] => c0e79f63d77dfbf7f292874a0599b2e5
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Sat, 05 Nov 2022 18:14:41 GMT
+                                    [content-length] => 0
+                                    [vary] => Origin
+                                    [via] => 1.1 google
+                                    [cf-cache-status] => DYNAMIC
+                                    [strict-transport-security] => max-age=15552000
+                                    [server] => cloudflare
+                                    [cf-ray] => 7657920cfd79a039-SIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
